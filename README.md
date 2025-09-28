@@ -1,2 +1,1 @@
-# Sino4
-my first projekt 
+# my first projekt 
